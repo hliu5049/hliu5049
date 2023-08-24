@@ -1,5 +1,5 @@
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=graywhite)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hliu5049&show_icons=true&theme=graywhite)
+- <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hliu5049&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hliu5049)](https://github.com/anuraghazra/github-readme-stats)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hliu5049)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
